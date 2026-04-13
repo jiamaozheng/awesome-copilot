@@ -6,7 +6,7 @@ import pagefindResources from "./src/integrations/pagefind-resources";
 // https://astro.build/config
 export default defineConfig({
   site: "https://jiamaozheng.github.io/awesome-copilot/",
-  base: "/",
+  base: "/awesome-copilot/",
   output: "static",
   integrations: [
     starlight({
