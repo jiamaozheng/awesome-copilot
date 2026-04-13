@@ -5,7 +5,7 @@ import { getEmbeddedData as getEmbeddedPageData } from "./embedded-data";
  */
 
 const REPO_BASE_URL =
-  "https://raw.githubusercontent.com/github/awesome-copilot/main";
+  "https://raw.githubusercontent.com/jiamaozheng/awesome-copilot/main";
 const REPO_GITHUB_URL = "https://github.com/github/awesome-copilot/blob/main";
 
 // VS Code install URL configurations
