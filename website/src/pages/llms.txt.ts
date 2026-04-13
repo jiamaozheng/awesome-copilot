@@ -4,7 +4,7 @@ import instructionsData from "../../public/data/instructions.json";
 import skillsData from "../../public/data/skills.json";
 
 // Base URL for absolute links (to raw GitHub content)
-const GITHUB_RAW_BASE = "https://raw.githubusercontent.com/github/awesome-copilot/main";
+const GITHUB_RAW_BASE = "https://raw.githubusercontent.com/jiamaozheng/awesome-copilot/main";
 
 export const GET: APIRoute = () => {
   const agents = agentsData.items;
